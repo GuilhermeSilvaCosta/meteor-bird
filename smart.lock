@@ -1,7 +1,15 @@
 {
   "meteor": {},
   "dependencies": {
-    "basePackages": {},
-    "packages": {}
+    "basePackages": {
+      "meteor-bird": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "meteor-bird": {
+        "path": "."
+      }
+    }
   }
 }

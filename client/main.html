@@ -3,11 +3,13 @@
 </head>
 
 <body>
+</body>
+<template name="layout">
   {{> header}}
   <main class="container">
     <section class="col-sm-12">
-      {{> home}}
+      {{> yield}}
     </section>
   </main>
   {{> footer}}
-</body>
+</template>
