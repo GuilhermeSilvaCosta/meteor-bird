@@ -1,3 +1,7 @@
 {
+  "name": "meteor-bird",
+  "description": "Meteor Bird Social Network - Projeto do livro 'Criando aplicações web real-time com JavaScript'",
+  "author": "Guilherme Costa <tec.guilherme.dsc@gmail.com>",
+  "version": "0.0.1",  
   "packages": {}
 }
